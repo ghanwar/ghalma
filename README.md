@@ -1,1 +1,1 @@
-# ghalmalinux
+# ghalma
